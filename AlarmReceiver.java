@@ -1,14 +1,6 @@
 package jp.chau2chaun2.mannerstimer;
 
-import jp.chau2chaun2.mannerstimer.alarm.AlarmController;
-import jp.chau2chaun2.mannerstimer.alarm.EtcController;
-import jp.chau2chaun2.mannerstimer.sql.DatabaseInfo;
-import jp.chau2chaun2.mannerstimer.sql.DataControl;
-import jp.chau2chaun2.mannerstimer.util.DBGLog;
-import jp.chau2chaun2.mannerstimer.util.FileEditor;
-import jp.chau2chaun2.mannerstimer.util.ListData;
-import jp.chau2chaun2.mannerstimer.util.PreferenceControl;
-import jp.chau2chaun2.mannerstimer.widget.HomeSwitchWidget;
+
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
