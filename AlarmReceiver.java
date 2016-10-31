@@ -1,5 +1,4 @@
 package jp.chau2chaun2.mannerstimer;
-abc
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
